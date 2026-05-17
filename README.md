@@ -1,4 +1,4 @@
-# AI-Based Mental Health Risk Prediction & Early Warning System
+# AI-Based Mental Health Risk Prediction & Early Warning System Using ML
 
 ## Overview
 This project predicts mental health risk levels using Machine Learning and provides an early warning system for preventive intervention.
